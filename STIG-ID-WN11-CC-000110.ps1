@@ -17,7 +17,7 @@
     Date(s) Tested  : 2026-02-26
     Tested By       : Abdul Ali
     Systems Tested  : Windows 11 pro
-    PowerShell Ver. : 
+    PowerShell Ver. : 5.1
 
 .USAGE
 Run as administrator
